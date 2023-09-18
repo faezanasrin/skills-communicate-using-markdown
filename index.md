@@ -3,3 +3,7 @@
 ```javascript
 var myVar = "Hello,Myself Faeza Nasrin.";
 ```
+- [x] Level 1
+- [x] Level 2
+- [ ] Level 3
+- [ ] Level 4
